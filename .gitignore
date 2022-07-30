@@ -1,0 +1,6 @@
+/venv/
+.idea
+.log
+/.pytest_cache/
+/logger.log
+/basic.txt
